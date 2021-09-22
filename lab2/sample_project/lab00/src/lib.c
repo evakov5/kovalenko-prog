@@ -16,6 +16,9 @@ const char *get_animal_type_name(enum animal_type type)
 	case FOX:
 		result = "Лисица";
 		break;
+	case MAN:
+		result = "Людина";
+		break;
 	case DOG:
 		result = "Собака";
 		break;
