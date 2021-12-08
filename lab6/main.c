@@ -33,6 +33,9 @@ int main()
 	for(int i = counter; i < N; i++) // инициализация пустых элементов массива нулями по счетчику заполненных элем.
 		massive[i] = 0;
 	for(int i = 0; i < N; i++)
+
+
+
 	printf("%d ", massive[i]);
 	printf("\n");
 }
